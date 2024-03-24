@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/Images/learn.jpg</ImageUrl>
+		<NavigateUrl></NavigateUrl>
+		<AlternateText>
+			learn
+		</AlternateText>
+		<Impressions>Learn</Impressions>
+		<Keyword>Chat with our bot and get help for your career</Keyword>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>~/Images/career.jpg</ImageUrl>
+		<NavigateUrl></NavigateUrl>
+		<AlternateText>career</AlternateText>
+		<Impressions>Education</Impressions>
+		<Keyword>“Education is the passport to the future, for tomorrow belongs to those who prepare for it today.”</Keyword>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>~/Images/quiz.jpg</ImageUrl>
+		<NavigateUrl></NavigateUrl>
+		<AlternateText>quiz, game, fun</AlternateText>
+		<Impressions>Quiz Games</Impressions>
+		<Keyword>Play some quiz which will help you to know your skills.</Keyword>
+	</Ad>
+</Advertisements>
